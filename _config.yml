@@ -1,9 +1,9 @@
 theme: minima
-title: Your awesome title
+title: Corey's Blog
 author: Corey Hampton
 email: corey.hampton77@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am not sure what to make this site about.
+  This is example description text.
 
 # social links
 twitter_username: none # DO NOT include the @ character, or else the build will fail!
